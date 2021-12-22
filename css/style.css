@@ -191,17 +191,17 @@ input:focus-visible {
           justify-content: center;
       }
 
-      .phones span{
-        margin: 5px;
+      .contatos span{
+        margin: 10px;
       }
 
-      .phones span a{
+      .contatos span a{
         margin: 0px;
       }
 
-
-
-      
+      .top-nav{
+      	margin-top: 10px;
+      }
 
       .menu-items {
         justify-content: center;
